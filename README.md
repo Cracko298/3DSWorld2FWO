@@ -7,7 +7,7 @@
 
 ## Usage:
 ```
-Usage:
+    Usage:
         .\\3DSW_2_FWO.exe [args] [mode] [CDBWorldDirectory]
 
         Args:
