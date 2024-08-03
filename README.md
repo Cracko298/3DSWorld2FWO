@@ -18,3 +18,7 @@
             festive      | Use a Defualt Version of FWO for people with the DLC.
             mario        | Use a Newer Version of FWO for people without DLC.
 ```
+### Usage (Unaccepted):
+```
+start 3DSW_2_FWO.exe [args] [mode] [CDBWorldDirectory]
+```
